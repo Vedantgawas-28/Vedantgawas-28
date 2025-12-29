@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👋 About Me<br><br>Hi! I’m Vedant Gawas, a passionate Web & MERN Stack Developer who loves building real-world projects and continuously learning new technologies. I enjoy turning ideas into functional, user-friendly applications and improving my problem-solving skills every day.<br><br>🔭 I’m currently working on<br><br>MERN stack projects (Login systems, dashboards, full-stack apps)<br><br>Personal portfolio & real-world mini projects<br><br>👯 I’m looking to collaborate on<br><br>Open-source projects<br><br>Web development (React, Node.js, MongoDB)<br><br>Beginner-friendly MERN or JavaScript projects<br><br>🤝 I’m looking for help with<br><br>Backend optimization & best practices<br><br>Deployment & scalability (Vercel, Render, MongoDB Atlas)<br><br>🌱 I’m currently learning<br><br>Advanced React.js<br><br>Node.js & Express<br><br>Data Structures & Algorithms<br><br>💬 Ask me about<br><br>HTML, CSS, JavaScript<br><br>React basics & MERN projects<br><br>Frontend + backend integration<br><br>⚡ Fun fact<br><br>I love building projects more than watching tutorials 😄
+Hi, I’m Vedant Gawas 👋
+I’m a passionate Web & MERN Stack Developer who enjoys building real-world, user-friendly applications. I actively work on full-stack projects, focusing on frontend–backend integration, authentication systems, and clean UI. Alongside development, I consistently practice Data Structures & Algorithms to strengthen my problem-solving skills. I believe in learning by building and improving through hands-on experience rather than just tutorials.
 
 
 ## 🌐 Socials:
